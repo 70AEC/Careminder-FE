@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "CareMinder - 더 스마트한 병원 업무의 시작",
   description: "간호사도 함께 웃을 수 있는 병원을 위한 스마트 솔루션",
-    generator: 'v0.dev'
+    generator: 'Careminder'
 }
 
 export default function RootLayout({
